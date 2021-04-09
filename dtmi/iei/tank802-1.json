@@ -1,0 +1,13 @@
+{
+    "@context": "dtmi:dtdl:context;2",
+    "@id": "dtmi:IEI:Tank802;1",
+    "@type": "Interface",
+    "displayName": "IEI-Tank802",
+    "contents": [
+        {
+            "@type": "Component",
+            "name": "WindowsDeviceInfo1",
+            "schema": "dtmi:Synnex:WindowsDeviceInfo;1"
+        }
+    ]
+}
